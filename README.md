@@ -4,6 +4,8 @@ Email: emilybest878@hotmail.com
 Flag: `S3cR3Tz_1n_tH3_B1n4ry`
 ## Briefing
 Our Agents think they have found an image on a machine, but it seems to be corrupt. Can you download the file and see if you can retrieve the flag?
+#### Optional Hint:
+Where is my head...err...
 ## Infrastructure 
 * The file will need to able to be downloaded from the CTF platform. 
 ## Risks
