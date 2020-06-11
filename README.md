@@ -9,7 +9,7 @@ Our Agents think they have found an image on a machine, but it seems to be corru
 ## Infrastructure 
 * The file will need to able to be downloaded from the CTF platform. 
 ## Risks
-To the best of my knowledge, there are no risks associated withe the files involved in this challenge.
+To the best of my knowledge, there are no risks associated with the files involved in this challenge.
 
 ## Walkthrough
 1. First, the user would download the file from the CTF platform.
