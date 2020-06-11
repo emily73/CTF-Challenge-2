@@ -27,7 +27,7 @@ To the best of my knowledge, there are no risks associated withe the files invol
 1. The user will then use a hex editor such as ghex to replace the binary with the hex they have just created:
   ![](Images/Walkthrough3.PNG)
 1. The user will now be able to open the file, and will see the following:
-  ![](Images/ChallangeImage.PNG)
+  ![](Images/ChallengeImage.png)
 1. Upon close inspection of the image, the user will notice the binary at the bottom of the image.
     ```
     01000110 01101100 01100001 01100111 00111010 00100000 01010011 00110011 01100011 01010010 00110011 01010100 01111010 01011111
