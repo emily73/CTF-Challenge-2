@@ -7,12 +7,12 @@ Our Agents think they have found an image on a machine, but it seems to be corru
 #### Optional Hint:
 
 ## Infrastructure 
-
+* The file will need to able to be downloaded from the CTF platform. 
 ## Risks
 To the best of my knowledge, there are no risks associated withe the files involved in this challenge.
 
 ## Walkthrough
-1. The user would download the file from the CTF platform
+1. First, the user would download the file from the CTF platform.
 1. Once the file has been downloaded, the user would open the file in a hex editor, or another program which allows them to view the hex of the file.
 1. Upon close inspection, the user will notice a string of binary at the top of the file:
   ![](Images/Walkthrough1.PNG)
