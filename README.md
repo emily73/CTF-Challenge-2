@@ -1,7 +1,6 @@
-Email: emilybest878@hotmail.com
+
 # Hex In The Bin
-## Flag
-Flag: `S3cR3Tz_1n_tH3_B1n4ry`
+
 ## Briefing
 Our Agents think they have found an image on a machine, but it seems to be corrupt. Can you download the file and see if you can retrieve the flag?
 
@@ -37,6 +36,6 @@ To the best of my knowledge, there are no risks associated with the files involv
     ```
     Using a tool such as CyberChef, the user can decode the binary to produce the flag:
     ![](Images/Walkthrough4.PNG)
-    Flag: `S3cR3Tz_1n_tH3_B1n4ry`
+   
  
     
